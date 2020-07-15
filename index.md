@@ -125,7 +125,6 @@
             <li>3D scanning of human forms & built environments, model conversion/ editing for manufacture.</li>
             <li>Clients include CIT, Nimbus Centre, Blackrock Castle Observatory.
           </ul>
-
       <tr>
         <tr>
           <td><br></td>
@@ -136,7 +135,6 @@
         <tr>
           <td><br></td>
         </tr>
-
       <tr>
         <td></td>
         <td>
@@ -146,17 +144,10 @@
             <li>Project management of several commercial projects including Jacobs Engineering offices Cork, BCD Engineering Charleville, GSK Pharmaceuticals Ringaskiddy.</li>
             <li>Commercial business clients  include: Irish Department of Defence, Cork City Council, Dun Laoghaire Rathdown Co. Co., Clare Co. Co., Office of Public Works, John Sisk & Sons., FAS, G&T Crampton.</li>
           </ul>
-
         <tr>
           <td><br></td>
         </tr>
-
-
       </tr>
     </table>
-
-
-
-
   </body>
 </html>
