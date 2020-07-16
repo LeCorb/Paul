@@ -1,0 +1,38 @@
+body, table {
+  background-color: #010A27;
+  size: 100%;
+  color: white;
+  font-family: 'Abel';font-size: 22px;
+  margin: 30px;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.align-top {
+  text-align:top;
+}
+
+div {
+  margin: 10px, 20px;
+  margin-collapse: collapse;
+}
+
+img {
+  float: right;
+  margin-left: 0;
+}
+
+p.clear {
+  clear: none;
+}
+
+td {
+vertical-align: top;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
